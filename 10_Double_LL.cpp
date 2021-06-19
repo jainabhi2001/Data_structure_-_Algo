@@ -1,4 +1,4 @@
-/* Program 10 Implement menu driven program for insertion (at the beginning, at specified location, at the end) 
+/* Program: Implement menu driven program for insertion (at the beginning, at specified location, at the end) 
     & deletion (at the beginning, at specified location, at the end) on doubly Double Linked List and circular doubly Double Linked List.*/
 
 #include<iostream>
