@@ -1,4 +1,4 @@
-// Program 1.	Implement menu driven program for operations (traverse, insert , delete, linear search, selection sort ) on an  array.
+// Program:	Implement menu driven program for operations (traverse, insert , delete, linear search, selection sort ) on an  array.
 
 #include<iostream>
 #include<process.h>
