@@ -1,4 +1,4 @@
-// Program 12 Implement addition of two polynomial expressions using singly linked list.
+// Program: Implement addition of two polynomial expressions using singly linked list.
 
 // Note: We will deal with only 1 variable polynomial
 
