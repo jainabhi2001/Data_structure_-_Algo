@@ -1,4 +1,4 @@
-// Program 14.	Write a program to count the total number of nodes & reverse the singly linked list.
+// Program: Write a program to count the total number of nodes & reverse the singly linked list.
 
 #include<iostream>
 #include<process.h>
