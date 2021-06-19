@@ -1,4 +1,4 @@
-// Program 11 Implement stacks and queues using linked list - use single linked list
+// Program: Implement stacks and queues using linked list - use single linked list
 
 #include<iostream>
 #include<process.h>
