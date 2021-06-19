@@ -1,5 +1,4 @@
-/* Program 3. Implement menu driven program for operations (push, pop) on a stack using arrays. 
-   Check the status of the stack whether there is underflow or overflow. 
+/* Program : Implement menu driven program for operations (push, pop) on a stack using arrays. Check the status of the stack whether there is underflow or overflow. 
    Max size of Stack = 5                                                                    */
 
 #include<iostream>
