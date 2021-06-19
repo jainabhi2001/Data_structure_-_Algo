@@ -1,4 +1,4 @@
-/* Program 9 Implement menu driven program for insertion (at the beginning, at specified location, at the end) & deletion 
+/* Program: Implement menu driven program for insertion (at the beginning, at specified location, at the end) & deletion 
 (at the beginning, at specified location, at the end) on singly linked list, circular single linked list.  */
 // Insert at position according to "info" 
 // First ask whether single LL or circular LL
