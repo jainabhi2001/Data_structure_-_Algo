@@ -1,4 +1,4 @@
-// Program 8. Implement Tower of Hanoi problem
+// Program : Implement Tower of Hanoi problem
 
 #include<iostream>
 using namespace std;
