@@ -17,4 +17,6 @@ PROGRAM LIST:
 11. Implement stacks and queues using linked list - use single linked list
 12. Implement addition of two polynomial expressions using singly linked list.
 13. Implement linear search and selection sort in a single linked list.
-14. 
+14. Write a program to count the total number of nodes & reverse the singly linked list.
+15. Write a program to merge 2 sorted linked list and display the final sorted linked list.
+16. 
