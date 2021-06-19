@@ -1,4 +1,4 @@
-// Program 4. Implement the conversion of infix notation to postfix notation using stacks
+// Program : Implement the conversion of infix notation to postfix notation using stacks
 // A+(B+C)*D)
 // A+(B*C-(D/E^F)*G)*H
 
