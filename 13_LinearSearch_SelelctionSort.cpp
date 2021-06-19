@@ -1,4 +1,4 @@
-// Program 13	Implement linear search and selection sort in a single linked list.
+// Program : Implement linear search and selection sort in a single linked list.
 #include<iostream>
 #include<process.h>
 
