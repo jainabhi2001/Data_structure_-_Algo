@@ -1,4 +1,4 @@
-// Program 2.	Implement sparse matrix
+// Program:	Implement sparse matrix
 
 #include <iostream>
 
