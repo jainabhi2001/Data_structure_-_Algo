@@ -20,3 +20,4 @@ PROGRAM LIST:
 14. Write a program to count the total number of nodes & reverse the singly linked list.
 15. Write a program to merge 2 sorted linked list and display the final sorted linked list.
 16. Implement menu driven program for operations on Binary Search Tree (Insertion, Deletion, Search, Traversals (using recursion)-Inorder, Preorder, Postorder).
+17. Implement Inorder,Preorder,Postorder traversals on Binary Search Tree (using STACKS)
