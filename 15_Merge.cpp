@@ -1,4 +1,4 @@
-// Program 15.	Write a program to merge 2 sorted linked list and display the final sorted linked list.
+// Program :Write a program to merge 2 sorted linked list and display the final sorted linked list.
 
 #include<iostream>
 #include<process.h>
