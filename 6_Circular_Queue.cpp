@@ -1,5 +1,4 @@
-/* Program 6. Implement menu driven program for operations (enqueue,dequeue) on a queue using arrays. 
-   Check the status of the stack whether there is underflow(empty) or overflow(full). 
+/* Program :Implement menu driven program for operations (enqueue,dequeue) on a queue using arrays. Check the status of the stack whether there is underflow or overflow. 
    Max size of Stack = 5    
    
    // Using approach that circular queue of size N takes N-1 entries, so we take N from user and perform on N+1                                                                */
