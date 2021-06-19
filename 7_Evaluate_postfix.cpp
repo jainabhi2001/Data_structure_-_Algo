@@ -1,4 +1,4 @@
-// Program 7. Implement evaluation of postfix notation using stacks.
+// Program : Implement evaluation of postfix notation using stacks.
 // ABC*D/+
 // 5,6,2,+,*,12,4,/,-
 // 5 6 2 + * 12 4 / -
