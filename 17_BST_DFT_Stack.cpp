@@ -1,4 +1,4 @@
-/* Program 16.	Implement Inorder,Preorder,Postorder traversals on Binary Search Tree (using STACKS) */
+/* Program :	Implement Inorder,Preorder,Postorder traversals on Binary Search Tree (using STACKS) */
 
 // Sample array: 64 1 18 34 5 6 78 49 32
 
